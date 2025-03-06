@@ -1,0 +1,36 @@
+.About-SidesWraper{
+    display: flex;
+}
+
+.About-SidesWraper-Text-Title{
+    font-size: 8.5vh;
+    margin-top: 12vh;
+    text-shadow: 0px 3px 3px rgb(144, 143, 143);
+    font-weight: 400;
+}
+
+.About-SidesWraper-Text-MainText{
+    text-align: justify;
+    font-size: 1.14vw;
+    line-height: 30px;
+    margin-top: -0.5vh;
+    margin-bottom: 15vh;
+    width: 28vw;
+    font-weight: 400;
+}
+
+.About-SidesWraper-Text{
+    width: 50%;
+    height: 91vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+
+.About-SideWraper-SocialMedias{
+    width: 50%;
+    height: 91vh;
+}

@@ -1,0 +1,19 @@
+.Home{
+    height: 100%;
+}
+
+.Home-Main{
+    display: flex;
+    height: 90.5vh;
+}
+
+.Home-SearchSide{
+    width: 50%;
+    height: 100%;
+}
+
+.Home-NodeSide{
+    /* border: 1px rgb(161, 2, 2) solid; */
+    width: 50%;
+    height: 100%;
+}
